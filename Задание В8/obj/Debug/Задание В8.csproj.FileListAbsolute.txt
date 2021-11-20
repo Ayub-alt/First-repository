@@ -1,0 +1,15 @@
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\bin\Debug\Задание В8.exe.config
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\bin\Debug\Задание В8.exe
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\bin\Debug\Задание В8.pdb
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\Задание В8.csproj.AssemblyReference.cache
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\MainWindow.g.cs
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\App.g.cs
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\Задание В8_MarkupCompile.cache
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\Задание В8_MarkupCompile.lref
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\MainWindow.baml
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\Задание В8.g.resources
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\Задание_В8.Properties.Resources.resources
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\Задание В8.csproj.GenerateResource.cache
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\Задание В8.csproj.CoreCompileInputs.cache
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\Задание В8.exe
+C:\Users\aiyub\OneDrive\Рабочий стол\semester 5\Технология разработки ПО\Занятие21\Задание В8\obj\Debug\Задание В8.pdb
